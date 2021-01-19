@@ -56,11 +56,11 @@ namespace VeldeBotTelegram.Models
                 return botClient;
             }
 
-                
+
 
 
             //TODO: Add more commands
-
+            AppSettings.LoadConfig(1);
             botClient = new TelegramBotClient(AppSettings.Key);
             string hook = string.Format(AppSettings.Url, "api/message/update");
             await botClient.SetWebhookAsync(hook);

@@ -402,20 +402,21 @@ namespace VeldeBotTelegram.Models
             }
         }
 
-        public static List<string> GetAppConfig()
+        public static List<string> GetAppConfig(int ID)
         {
             List<string> appConfig = new List<string>();
             DataBase.OpenAsync();            
 
-            SqliteCommand command = new SqliteCommand("SELECT * FROM Messages WHERE ClientID = " + client.ChatId, DataBase);
+            SqliteCommand command = new SqliteCommand("SELECT * FROM config WHERE ID = " + ID, DataBase);
             var reader = command.ExecuteReader();
             while (reader.Read())
             {
-                ClientMessage cl = new ClientMessage();
-                cl.Date = DateTime.Parse(reader.GetValue(3).ToString());
-                cl.Answer = reader.GetValue(2).ToString();
-                cl.Question = reader.GetValue(1).ToString();
-                clientMessages.Add(cl);
+                
+                 
+                 appConfig.Add(reader.GetValue(0).ToString());
+                appConfig.Add(reader.GetValue(1).ToString());
+                appConfig.Add(reader.GetValue(2).ToString());
+
             }
             DataBase.CloseAsync();
             return appConfig;

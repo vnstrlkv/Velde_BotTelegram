@@ -69,6 +69,7 @@ namespace VeldeBotTelegram
             //   foreach(Question q in first)
             // DBHelper.AddQuestion(q);
             // DBHelper.GetQuestion(0);
+        
             Bot.GetBotClientAsync().Wait();
             
         }
