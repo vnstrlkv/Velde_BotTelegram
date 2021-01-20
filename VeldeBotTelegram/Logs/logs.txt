@@ -1,0 +1,285 @@
+﻿17.11.2020 12:20:19 
+17.11.2020 12:34:05 СТАРТ
+17.11.2020 12:39:10 СТАРТ
+17.11.2020 12:39:10 
+17.11.2020 12:39:10 
+17.11.2020 12:43:20 Оп оП сообщение, посмотрим какое
+17.11.2020 12:43:20 InputMessage 417633936 См
+17.11.2020 12:43:24 Оп оП сообщение, посмотрим какое
+17.11.2020 12:43:24 InputMessage 417633937 4
+17.11.2020 12:46:50 СТАРТ
+17.11.2020 12:48:37 Оп оП сообщение, посмотрим какое
+17.11.2020 12:48:37 InputMessage 417633939 3
+17.11.2020 12:48:40 Оп оП сообщение, посмотрим какое
+17.11.2020 12:48:40 InputMessage 417633940 4
+17.11.2020 12:49:00 СТАРТ
+17.11.2020 12:49:52 СТАРТ
+17.11.2020 12:50:42 СТАРТ
+17.11.2020 12:51:57 СТАРТ3231
+17.11.2020 12:52:08 СТАРТ3231
+17.11.2020 12:52:47 СТАРТ3231
+17.11.2020 12:52:59 СТАРТ3231
+17.11.2020 12:59:44 Оп оП сообщение, посмотрим какое
+17.11.2020 12:59:44 InputMessage 417633942 1
+17.11.2020 12:59:45 Оп оП сообщение, посмотрим какое
+17.11.2020 12:59:45 InputMessage 417633943 Пп
+17.11.2020 12:59:45 Оп оП сообщение, посмотрим какое
+17.11.2020 12:59:45 InputMessage 417633944 Пм
+17.11.2020 12:59:45 Оп оП сообщение, посмотрим какое
+17.11.2020 12:59:45 InputMessage 417633945 Сри
+17.11.2020 12:59:46 Оп оП сообщение, посмотрим какое
+17.11.2020 12:59:46 InputMessage 417633946 Шор
+17.11.2020 12:59:46 Оп оП сообщение, посмотрим какое
+17.11.2020 12:59:46 InputMessage 417633947 Мм
+17.11.2020 12:59:49 Оп оП сообщение, посмотрим какое
+17.11.2020 12:59:49 InputMessage 417633948 3
+17.11.2020 12:59:52 Оп оП сообщение, посмотрим какое
+17.11.2020 12:59:52 InputMessage 417633949 3
+17.11.2020 12:59:55 Оп оП сообщение, посмотрим какое
+17.11.2020 12:59:55 InputMessage 417633950 4
+17.11.2020 13:01:36 Оп оП сообщение, посмотрим какое
+17.11.2020 13:01:36 InputMessage 417633952 1
+17.11.2020 13:04:25 Оп оП сообщение, посмотрим какое
+17.11.2020 13:04:25 InputMessage 417633953 1
+17.11.2020 13:08:20 Оп оП сообщение, посмотрим какое
+17.11.2020 13:08:20 InputMessage 417633954 1
+17.11.2020 13:10:10 Оп оП сообщение, посмотрим какое
+17.11.2020 13:10:10 InputMessage 417633955 1
+17.11.2020 13:10:13 Оп оП сообщение, посмотрим какое
+17.11.2020 13:10:13 InputMessage 417633956 4
+17.11.2020 14:57:05 Оп оП сообщение, посмотрим какое
+17.11.2020 14:57:05 InputMessage 417633964 1
+17.11.2020 14:57:22 Оп оП сообщение, посмотрим какое
+17.11.2020 14:57:22 InputMessage 417633965 4
+17.11.2020 14:57:25 Оп оП сообщение, посмотрим какое
+17.11.2020 14:57:25 InputCALLBACK Message 417633966 5&Вторая картинка
+17.11.2020 14:57:25 ExecuteCallbackMessage 5&Вторая картинка
+17.11.2020 14:57:25 ExecuteCallbackMessage 5&Вторая картинка
+17.11.2020 14:57:25 ExecuteQuery INLINE
+17.11.2020 14:58:05 Оп оП сообщение, посмотрим какое
+17.11.2020 14:58:05 InputCALLBACK Message 417633967 5&Вторая картинка
+17.11.2020 14:58:05 ExecuteCallbackMessage 5&Вторая картинка
+17.11.2020 14:58:05 ExecuteCallbackMessage 5&Вторая картинка
+17.11.2020 14:58:05 ExecuteQuery INLINE
+17.11.2020 14:58:06 message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+17.11.2020 14:58:24 Оп оП сообщение, посмотрим какое
+17.11.2020 14:58:24 InputMessage 417633968 У
+17.11.2020 15:00:00 Оп оП сообщение, посмотрим какое
+17.11.2020 15:03:12 Оп оП сообщение, посмотрим какое
+17.11.2020 15:03:13 Оп оП сообщение, посмотрим какое
+17.11.2020 15:12:04 Оп оП сообщение, посмотрим какое
+17.11.2020 15:12:04 InputMessage 417633972 Р
+17.11.2020 15:26:45 Оп оП сообщение, посмотрим какое
+17.11.2020 15:26:45 InputMessage 417633973 1
+17.11.2020 15:29:33 Оп оП сообщение, посмотрим какое
+17.11.2020 15:29:33 InputMessage 417633974 1
+17.11.2020 15:29:38 Оп оП сообщение, посмотрим какое
+17.11.2020 15:29:38 InputMessage 417633975 4
+17.11.2020 15:31:04 Оп оП сообщение, посмотрим какое
+17.11.2020 15:31:04 InputMessage 417633977 1
+17.11.2020 15:37:39 Оп оП сообщение, посмотрим какое
+17.11.2020 15:37:39 InputMessage 417633978 1
+17.11.2020 15:37:54 Оп оП сообщение, посмотрим какое
+17.11.2020 15:37:54 InputMessage 417633979 4
+17.11.2020 15:39:02 Оп оП сообщение, посмотрим какое
+17.11.2020 15:39:02 InputMessage 417633980 1
+17.11.2020 15:43:13 Оп оП сообщение, посмотрим какое
+17.11.2020 15:43:13 InputMessage 417633982 1
+17.11.2020 15:50:45 Оп оП сообщение, посмотрим какое
+17.11.2020 15:50:45 InputMessage 417633983 К
+17.11.2020 15:50:56 Оп оП сообщение, посмотрим какое
+17.11.2020 15:50:56 InputMessage 417633984 1
+17.11.2020 15:53:20 Оп оП сообщение, посмотрим какое
+17.11.2020 15:53:20 InputMessage 417633985 1
+17.11.2020 15:53:23 Оп оП сообщение, посмотрим какое
+17.11.2020 15:53:23 InputMessage 417633986 4
+17.11.2020 15:57:23 Оп оП сообщение, посмотрим какое
+17.11.2020 15:57:23 InputMessage 417633988 1
+17.11.2020 15:57:25 Оп оП сообщение, посмотрим какое
+17.11.2020 15:57:25 InputMessage 417633989 Й
+17.11.2020 16:05:43 Оп оП сообщение, посмотрим какое
+17.11.2020 16:05:43 InputMessage 417633990 1
+17.11.2020 16:05:44 Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+17.11.2020 16:07:26 Оп оП сообщение, посмотрим какое
+17.11.2020 16:07:26 InputMessage 417633991 Мп
+17.11.2020 16:14:18 Оп оП сообщение, посмотрим какое
+17.11.2020 16:14:18 InputMessage 417633992 1
+17.11.2020 16:14:23 Оп оП сообщение, посмотрим какое
+17.11.2020 16:14:23 InputMessage 417633993 4
+17.11.2020 16:44:02 Оп оП сообщение, посмотрим какое
+17.11.2020 16:44:02 InputMessage 417633994 1
+17.11.2020 16:44:05 Оп оП сообщение, посмотрим какое
+17.11.2020 16:44:05 InputMessage 417633995 4
+18.11.2020 7:42:04 Оп оП сообщение, посмотрим какое
+18.11.2020 7:42:04 InputMessage 417633997 1
+18.11.2020 7:43:27 Оп оП сообщение, посмотрим какое
+18.11.2020 7:43:27 InputMessage 417633999 2
+18.11.2020 7:43:27 Value must be set.
+18.11.2020 7:45:29 Оп оП сообщение, посмотрим какое
+18.11.2020 7:45:29 InputMessage 417634001 2
+18.11.2020 7:45:29 SQLite Error 19: 'UNIQUE constraint failed: Clients.PhoneNumber'.
+20.01.2021 11:45:41 Could not find a part of the path 'C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Logs\logs.txt'.
+20.01.2021 11:45:43    at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at VeldeBotTelegram.Models.Bot.MyLogger(String message) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\Bot.cs:line 20
+   at VeldeBotTelegram.Models.Commands.InlineImageGalleryCommand.Execute(Message message, TelegramBotClient botClient, Client person) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\Commands\InlineImageGalleryCommand.cs:line 51
+   at VeldeBotTelegram.Controllers.MessageController.ExecuteCommand(Message message, TelegramBotClient botClient, String copymessage) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Controllers\MessageController.cs:line 154
+   at VeldeBotTelegram.Controllers.MessageController.Post(Update update) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Controllers\MessageController.cs:line 119
+20.01.2021 11:45:47 Bad Request: group send failed
+20.01.2021 11:45:50    at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at VeldeBotTelegram.Models.Commands.InlineImageGalleryCommand.Execute(Message message, TelegramBotClient botClient, Client person) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\Commands\InlineImageGalleryCommand.cs:line 43
+20.01.2021 11:45:57 Bad Request: group send failed
+20.01.2021 11:45:57    at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at VeldeBotTelegram.Models.Commands.InlineImageGalleryCommand.Execute(Message message, TelegramBotClient botClient, Client person) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\Commands\InlineImageGalleryCommand.cs:line 43
+20.01.2021 11:49:23 Bad Request: group send failed
+20.01.2021 11:49:23    at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at VeldeBotTelegram.Models.Commands.InlineImageGalleryCommand.Execute(Message message, TelegramBotClient botClient, Client person) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\Commands\InlineImageGalleryCommand.cs:line 43
+20.01.2021 11:50:53 Bad Request: group send failed
+20.01.2021 11:50:53    at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at VeldeBotTelegram.Models.Commands.InlineImageGalleryCommand.Execute(Message message, TelegramBotClient botClient, Client person) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\Commands\InlineImageGalleryCommand.cs:line 43
+20.01.2021 11:54:17 SQLite Error 5: 'database is locked'.
+20.01.2021 11:54:17    at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.UpdateClient(Client client) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 315
+20.01.2021 11:54:52 Safe handle has been closed.
+Object name: 'SafeHandle'.
+20.01.2021 11:54:52    at System.Runtime.InteropServices.SafeHandle.DangerousAddRef(Boolean& success)
+   at System.StubHelpers.StubHelpers.SafeHandleAddRef(SafeHandle pHandle, Boolean& success)
+   at SQLitePCL.raw.sqlite3_reset(sqlite3_stmt stmt)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.AddMessage(Client client, Message message) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 370
+20.01.2021 11:54:52 Safe handle has been closed.
+Object name: 'SafeHandle'.
+20.01.2021 11:54:52    at System.Runtime.InteropServices.SafeHandle.DangerousAddRef(Boolean& success)
+   at System.StubHelpers.StubHelpers.SafeHandleAddRef(SafeHandle pHandle, Boolean& success)
+   at SQLitePCL.raw.sqlite3_reset(sqlite3_stmt stmt)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.UpdateClient(Client client) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 315
+20.01.2021 11:55:22 SQLite Error 5: 'database is locked'.
+20.01.2021 11:55:22    at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.AddMessage(Client client, Message message) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 370
+20.01.2021 11:55:49 Safe handle has been closed.
+Object name: 'SafeHandle'.
+20.01.2021 11:55:49    at System.Runtime.InteropServices.SafeHandle.DangerousAddRef(Boolean& success)
+   at System.StubHelpers.StubHelpers.SafeHandleAddRef(SafeHandle pHandle, Boolean& success)
+   at SQLitePCL.raw.sqlite3_reset(sqlite3_stmt stmt)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.UpdateClient(Client client) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 315
+20.01.2021 11:55:49 Safe handle has been closed.
+Object name: 'SafeHandle'.
+20.01.2021 11:55:49    at System.Runtime.InteropServices.SafeHandle.DangerousAddRef(Boolean& success)
+   at System.StubHelpers.StubHelpers.SafeHandleAddRef(SafeHandle pHandle, Boolean& success)
+   at SQLitePCL.raw.sqlite3_reset(sqlite3_stmt stmt)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.UpdateClient(Client client) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 315
+20.01.2021 11:55:49 Safe handle has been closed.
+Object name: 'SafeHandle'.
+20.01.2021 11:55:49    at System.Runtime.InteropServices.SafeHandle.DangerousAddRef(Boolean& success)
+   at System.StubHelpers.StubHelpers.SafeHandleAddRef(SafeHandle pHandle, Boolean& success)
+   at SQLitePCL.raw.sqlite3_reset(sqlite3_stmt stmt)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.AddMessage(Client client, Message message) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 370
+20.01.2021 11:55:49 Safe handle has been closed.
+Object name: 'SafeHandle'.
+20.01.2021 11:55:49    at System.Runtime.InteropServices.SafeHandle.DangerousAddRef(Boolean& success)
+   at System.StubHelpers.StubHelpers.SafeHandleAddRef(SafeHandle pHandle, Boolean& success)
+   at SQLitePCL.raw.sqlite3_reset(sqlite3_stmt stmt)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.AddMessage(Client client, Message message) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 370
+20.01.2021 11:55:50 Safe handle has been closed.
+Object name: 'SafeHandle'.
+20.01.2021 11:55:50    at System.Runtime.InteropServices.SafeHandle.DangerousAddRef(Boolean& success)
+   at System.StubHelpers.StubHelpers.SafeHandleAddRef(SafeHandle pHandle, Boolean& success)
+   at SQLitePCL.raw.sqlite3_reset(sqlite3_stmt stmt)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.UpdateClient(Client client) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 315
+20.01.2021 11:55:50 Safe handle has been closed.
+Object name: 'SafeHandle'.
+20.01.2021 11:55:50    at System.Runtime.InteropServices.SafeHandle.DangerousAddRef(Boolean& success)
+   at System.StubHelpers.StubHelpers.SafeHandleAddRef(SafeHandle pHandle, Boolean& success)
+   at SQLitePCL.raw.sqlite3_reset(sqlite3_stmt stmt)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.UpdateClient(Client client) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 315
+20.01.2021 11:55:50 Safe handle has been closed.
+Object name: 'SafeHandle'.
+20.01.2021 11:55:50    at System.Runtime.InteropServices.SafeHandle.DangerousAddRef(Boolean& success)
+   at System.StubHelpers.StubHelpers.SafeHandleAddRef(SafeHandle pHandle, Boolean& success)
+   at SQLitePCL.raw.sqlite3_reset(sqlite3_stmt stmt)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.AddMessage(Client client, Message message) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 370
+20.01.2021 11:55:50 Safe handle has been closed.
+Object name: 'SafeHandle'.
+20.01.2021 11:55:50    at System.Runtime.InteropServices.SafeHandle.DangerousAddRef(Boolean& success)
+   at System.StubHelpers.StubHelpers.SafeHandleAddRef(SafeHandle pHandle, Boolean& success)
+   at SQLitePCL.raw.sqlite3_reset(sqlite3_stmt stmt)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.AddMessage(Client client, Message message) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 370
+20.01.2021 11:55:51 Safe handle has been closed.
+Object name: 'SafeHandle'.
+20.01.2021 11:55:51    at System.Runtime.InteropServices.SafeHandle.DangerousAddRef(Boolean& success)
+   at System.StubHelpers.StubHelpers.SafeHandleAddRef(SafeHandle pHandle, Boolean& success)
+   at SQLitePCL.raw.sqlite3_reset(sqlite3_stmt stmt)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.UpdateClient(Client client) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 315
+20.01.2021 11:55:51 Safe handle has been closed.
+Object name: 'SafeHandle'.
+20.01.2021 11:55:51    at System.Runtime.InteropServices.SafeHandle.DangerousAddRef(Boolean& success)
+   at System.StubHelpers.StubHelpers.SafeHandleAddRef(SafeHandle pHandle, Boolean& success)
+   at SQLitePCL.raw.sqlite3_reset(sqlite3_stmt stmt)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.UpdateClient(Client client) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 315
+20.01.2021 11:55:51 Safe handle has been closed.
+Object name: 'SafeHandle'.
+20.01.2021 11:55:51    at System.Runtime.InteropServices.SafeHandle.DangerousAddRef(Boolean& success)
+   at System.StubHelpers.StubHelpers.SafeHandleAddRef(SafeHandle pHandle, Boolean& success)
+   at SQLitePCL.raw.sqlite3_reset(sqlite3_stmt stmt)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.AddMessage(Client client, Message message) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 370
+20.01.2021 11:55:51 Safe handle has been closed.
+Object name: 'SafeHandle'.
+20.01.2021 11:55:51    at System.Runtime.InteropServices.SafeHandle.DangerousAddRef(Boolean& success)
+   at System.StubHelpers.StubHelpers.SafeHandleAddRef(SafeHandle pHandle, Boolean& success)
+   at SQLitePCL.raw.sqlite3_reset(sqlite3_stmt stmt)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at VeldeBotTelegram.Models.DBHelper.AddMessage(Client client, Message message) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Models\DBHelper.cs:line 370
+20.01.2021 18:41:58 Input string was not in a correct format.
+20.01.2021 18:41:58    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at VeldeBotTelegram.Controllers.MessageController.ExecuteCommand(Message message, TelegramBotClient botClient, String copymessage) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Controllers\MessageController.cs:line 173
+   at VeldeBotTelegram.Controllers.MessageController.Post(Update update) in C:\Users\Администратор\source\repos\VeldeBotTelegram\VeldeBotTelegram\Controllers\MessageController.cs:line 119

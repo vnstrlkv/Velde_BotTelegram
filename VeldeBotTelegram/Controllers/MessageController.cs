@@ -71,7 +71,7 @@ namespace VeldeBotTelegram.Controllers
                 else if (update == null)
                 {
                     Bot.MyLogger("Какая то херня =(");
-                    Bot.MyLogger(ex.StackTrace);
+                    
                     return Ok();
                 }
 
