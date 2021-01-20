@@ -402,12 +402,12 @@ namespace VeldeBotTelegram.Models
             }
         }
 
-        public static List<string> GetAppConfig(int ID)
+        public static List<string> GetBOTConfig(int ID)
         {
             List<string> appConfig = new List<string>();
             DataBase.OpenAsync();            
 
-            SqliteCommand command = new SqliteCommand("SELECT * FROM config WHERE ID = " + ID, DataBase);
+            SqliteCommand command = new SqliteCommand("SELECT * FROM botconfig WHERE ID = " + ID, DataBase);
             var reader = command.ExecuteReader();
             while (reader.Read())
             {
@@ -421,6 +421,28 @@ namespace VeldeBotTelegram.Models
             DataBase.CloseAsync();
             return appConfig;
         }
+
+        public static List<string> GetBitrixConfig(int ID)
+        {
+            List<string> appConfig = new List<string>();
+            DataBase.OpenAsync();
+
+            SqliteCommand command = new SqliteCommand("SELECT * FROM bitrixconfig WHERE ID = " + ID, DataBase);
+            var reader = command.ExecuteReader();
+            while (reader.Read())
+            {
+
+
+                appConfig.Add(reader.GetValue(0).ToString());
+                appConfig.Add(reader.GetValue(1).ToString());
+                appConfig.Add(reader.GetValue(2).ToString());
+
+            }
+            DataBase.CloseAsync();
+            return appConfig;
+        }
+
+
         public static List<ClientMessage> GetAllClientMessages(Client client)
         {
             List<ClientMessage> clientMessages = new List<ClientMessage>();

@@ -57,12 +57,12 @@ namespace VeldeBotTelegram.Models
                 ws = pck.Workbook.Worksheets[1];
 
                 var faceRow =
-                from cell in ws.Cells["a:m"]
+                from cell in ws.Cells["a:aa"]
                 where cell.Value?.ToString() == typeFace
                 select cell;
 
                 var tableRow =
-                from cell in ws.Cells["a:m"]
+                from cell in ws.Cells["a:aa"]
                 where cell.Value?.ToString() == typeTable
                 select cell;
                int i =tableRow.ToList()[0].Start.Row;

@@ -13,8 +13,16 @@ namespace VeldeBotTelegram.Models
     {
 
         
-            private static string BitrixName = "hp-group.bitrix24.ru";
-            private static string BitrixPass = "s2g1r5tledqs4u9v";
+            private static string BitrixName;
+            private static string BitrixPass;
+            
+            public static void LoadBitrixConfig(int ID)
+        {
+            var conf= DBHelper.GetBitrixConfig(ID);
+            BitrixName = conf[1];
+            BitrixPass = conf[2];
+               
+        }
             public static async Task<bool> Start(Client client)
             {
                 bool flag = false;

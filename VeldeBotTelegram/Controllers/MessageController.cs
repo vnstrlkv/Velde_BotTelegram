@@ -42,38 +42,27 @@ namespace VeldeBotTelegram.Controllers
         //    public async Task<OkResult> Post([FromBody]Update update)
           public async Task<OkResult> Post([FromBody]Update update)
    
-        {
-            Console.WriteLine("POST  " + DateTime.Now);
+        {            
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             try
-            {
-                Bot.MyLogger("Оп оП сообщение, посмотрим какое");
-                if (update.Message != null)
-                    Bot.MyLogger("InputMessage " + update.Id + " " + update.Message.Text);
-                else if (update.CallbackQuery.Data != null)
-                {
-                    Console.WriteLine("callbak ДОШЛО " + DateTime.Now);
-                    Bot.MyLogger("InputCALLBACK Message " + update.Id + " " + update.CallbackQuery.Data);
-                }
+            {             
+               
                 var botClient = await Bot.GetBotClientAsync();
 
                 if (update.CallbackQuery != null)
                 {
-                    Console.WriteLine("callbak  " + DateTime.Now);
+                    
                     try
                     {
                         var callbackQuery = update.CallbackQuery;
-
-                        Bot.MyLogger("ExecuteCallbackMessage " + callbackQuery.Data);
-
+                   
                         await ExecuteCallbackMessage(callbackQuery, botClient);
                        
                         return Ok();
                     }
                     catch (Exception ex)
                     {
-                        Bot.MyLogger(ex.Message);
-                        var t = ex;
+                        Bot.MyLogger(ex.Message);                      
                         return Ok();
                     }
 
@@ -114,9 +103,7 @@ namespace VeldeBotTelegram.Controllers
                         Bot.AddKitchen(kitchen);
                     }
                 }
-
-
-
+                               
 
 
                 Bot.AddCommand(client);
@@ -134,10 +121,11 @@ namespace VeldeBotTelegram.Controllers
             catch (Exception ex)
             {
                 Bot.MyLogger(ex.Message);
+
                 return Ok();
             }
             
-            return Ok();
+           
         }
 
         private void UpdateClient (Client client, ref Message message)
@@ -189,11 +177,11 @@ namespace VeldeBotTelegram.Controllers
                             if (kitchen.Lenght != -1 && kitchen.TypeFace != "null" && kitchen.TypeTable != "null")
                             {
                                 var culture = new System.Globalization.CultureInfo("ru-RU");
-                                string messageTEXT = "Базовая стоимость: "+ kitchen.GetFullPrice("./DataBase/price.xlsx").ToString("#,#", culture) +"р. минус ваша скидка 20 % = "+ kitchen.GetSalePrice("./DataBase/price.xlsx", 1.2).ToString("#,#", culture) +
+                                string messageTEXT = "Базовая стоимость: "+ kitchen.GetFullPrice("./DataBase/price.xlsx").ToString("#,#", culture) +"р. минус ваша скидка 10% = "+ kitchen.GetSalePrice("./DataBase/price.xlsx", 1.2).ToString("#,#", culture) +
                                     "р. (Кухня длиной "+kitchen.Lenght+" метра, фасады: "
                                     +kitchen.TypeFace+", фурнитура Blum, " +
                                     "столешница: "+kitchen.TypeTable.ToLower()+". В цену включены: замеры, создание прототипа, доставка, разгрузка, сборка и клининг.)" ;
-                                string text = "Хорошие новости, при заказе кухни у Стаса, персональный бонус – скидка 20 % 🎁";
+                                string text = "Хорошие новости, при заказе кухни у Стаса, персональный бонус – скидка 10% 🎁";
                                 await botClient.SendTextMessageAsync(message.Chat.Id, text, parseMode: Telegram.Bot.Types.Enums.ParseMode.Html);
                                 
                                 await botClient.SendTextMessageAsync(message.Chat.Id, messageTEXT, parseMode: Telegram.Bot.Types.Enums.ParseMode.Html);
