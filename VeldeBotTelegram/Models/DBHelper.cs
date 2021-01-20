@@ -179,7 +179,7 @@ namespace VeldeBotTelegram.Models
             catch (Exception ex)
             {
                 Bot.MyLogger(ex.Message);
-                var t = ex;
+                Bot.MyLogger(ex.StackTrace);
                 DataBase.CloseAsync();
             }
         }
@@ -206,7 +206,7 @@ namespace VeldeBotTelegram.Models
             catch (Exception ex)
             {
                 Bot.MyLogger(ex.Message);
-                var t = ex;
+                Bot.MyLogger(ex.StackTrace);
                 DataBase.CloseAsync();
             }
         }
@@ -317,8 +317,9 @@ namespace VeldeBotTelegram.Models
             }
             catch (Exception ex)
             {
-                var t = ex;
+               
                 Bot.MyLogger(ex.Message);
+                Bot.MyLogger(ex.StackTrace);
                 DataBase.CloseAsync();
             }
         }
@@ -338,8 +339,9 @@ namespace VeldeBotTelegram.Models
             }
             catch (Exception ex)
             {
-                var t = ex;
+                
                 Bot.MyLogger(ex.Message);
+                Bot.MyLogger(ex.StackTrace);
                 DataBase.CloseAsync();
             }
         }
@@ -370,8 +372,9 @@ namespace VeldeBotTelegram.Models
             }
             catch (Exception ex)
             {
-                var t = ex;
+                
                 Bot.MyLogger(ex.Message);
+                Bot.MyLogger(ex.StackTrace);
                 DataBase.CloseAsync();
             }
         }
@@ -396,8 +399,9 @@ namespace VeldeBotTelegram.Models
             }
             catch (Exception ex)
             {
-                var t = ex;
+                
                 Bot.MyLogger(ex.Message);
+                Bot.MyLogger(ex.StackTrace);
                 DataBase.CloseAsync();
             }
         }

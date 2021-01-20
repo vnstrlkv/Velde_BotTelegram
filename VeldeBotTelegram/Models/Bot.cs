@@ -17,13 +17,13 @@ namespace VeldeBotTelegram.Models
         public static void MyLogger (string message)
         {
             Console.WriteLine(message);
-         //   using (FileStream fstream = new FileStream("./Logs/logs.txt", FileMode.Append))
+            using (FileStream fstream = new FileStream("./Logs/logs.txt", FileMode.Append))
             {
                 // преобразуем строку в байты
                // message = ;
-            //    byte[] array = System.Text.Encoding.Default.GetBytes(DateTime.Now.ToString() + " " + message +"\r\n");
+                byte[] array = System.Text.Encoding.Default.GetBytes(DateTime.Now.ToString() + " " + message +"\r\n");
                 // запись массива байтов в файл
-          //      fstream.Write(array, 0, array.Length);
+                fstream.Write(array, 0, array.Length);
               //  Console.WriteLine("Текст записан в файл");
 
             }

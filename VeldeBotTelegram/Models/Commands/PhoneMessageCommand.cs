@@ -36,7 +36,7 @@ namespace VeldeBotTelegram.Models.Commands
             catch (Exception ex)
             {
                 Bot.MyLogger(ex.Message);
-                var t = ex;
+                Bot.MyLogger(ex.StackTrace);
             }
         }
 

@@ -62,7 +62,8 @@ namespace VeldeBotTelegram.Controllers
                     }
                     catch (Exception ex)
                     {
-                        Bot.MyLogger(ex.Message);                      
+                        Bot.MyLogger(ex.Message);
+                        Bot.MyLogger(ex.StackTrace);
                         return Ok();
                     }
 
@@ -70,6 +71,7 @@ namespace VeldeBotTelegram.Controllers
                 else if (update == null)
                 {
                     Bot.MyLogger("Какая то херня =(");
+                    Bot.MyLogger(ex.StackTrace);
                     return Ok();
                 }
 
@@ -121,7 +123,7 @@ namespace VeldeBotTelegram.Controllers
             catch (Exception ex)
             {
                 Bot.MyLogger(ex.Message);
-
+                Bot.MyLogger(ex.StackTrace);
                 return Ok();
             }
             
@@ -248,8 +250,7 @@ namespace VeldeBotTelegram.Controllers
         {
             try
             {
-                Bot.MyLogger("ExecuteCallbackMessage " + callbackQuery.Data);
-                var call = callbackQuery.Data.Split('z', StringSplitOptions.RemoveEmptyEntries);
+                                var call = callbackQuery.Data.Split('z', StringSplitOptions.RemoveEmptyEntries);
                 int stage = int.Parse(call[0]);
                 string callbackString = call[1];
 
@@ -261,7 +262,9 @@ namespace VeldeBotTelegram.Controllers
             }
             catch (Exception ex)
             {
+
                 Bot.MyLogger(ex.Message);
+                Bot.MyLogger(ex.StackTrace);
             }
               
         }

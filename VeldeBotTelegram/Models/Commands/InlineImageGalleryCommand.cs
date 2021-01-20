@@ -49,16 +49,15 @@ namespace VeldeBotTelegram.Models.Commands
                 catch (Exception ex)
                 {
                 Bot.MyLogger(ex.Message);
-                var t = ex;
-                  
-                }
+                Bot.MyLogger(ex.StackTrace);
+
+            }
             }
 
         public async Task ExecuteQuery (CallbackQuery callbackQuery, TelegramBotClient botClient)
         {
             try
-            {
-                Bot.MyLogger("ExecuteQuery INLINE");
+            {              
                 string url = "1";
                 var m = from t in inlineImageGallery.ImageGalleries
                         where t.Descriptipon == callbackQuery.Data.Substring(callbackQuery.Data.IndexOf('z') + 1)
@@ -76,7 +75,7 @@ namespace VeldeBotTelegram.Models.Commands
             catch (Exception ex)
             {
                 Bot.MyLogger(ex.Message);
-                var t = ex;
+                Bot.MyLogger(ex.StackTrace);
             }
 
         }
